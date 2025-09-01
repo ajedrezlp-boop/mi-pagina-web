@@ -1,0 +1,28 @@
+{
+    "variaciones_totales": {
+        "Lucero Marzo Daniel": -1.7891460952412217,
+        "Cicciari Teo Dante": 6.990181924529452,
+        "Silva Diego": 22.314877082120802,
+        "Ortega Francisco": 5.979867269646093,
+        "Oliveri Jairo": 3.263369320074162,
+        "Sarno Schonhoff Teo": 3.67089967885272,
+        "Silva Juan Carlos": 14.388506439819821,
+        "Bouso Alejandro Alberto": 12.19677409994415,
+        "Lapitzondo Santiago": -7.406341701289648,
+        "Brozzoni Gustavo": 16.854557357809426,
+        "Cicciari Ricardo Miguel": -3.8015792257704106,
+        "Sanchez Rafael Sandro": -18.805471304690627,
+        "Reinoso Jeremias": -1.912891823469181,
+        "Naipauer Matias": -21.446941298139336,
+        "Gonzalez Carlos": -21.427509168210918,
+        "Martinez Emanuel": -47.100645477796434,
+        "Martinez Vicente Risa Paloma": -51.965594942384996,
+        "Martinez Vicente Amorami Follil": -91.3304474316567
+    },
+    "nuevos_jugadores": [
+        {
+            "nombre": "Marin Santiago Alejandro",
+            "elo_inicial": 1500
+        }
+    ]
+}

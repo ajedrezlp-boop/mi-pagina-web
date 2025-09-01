@@ -1,0 +1,1019 @@
+[
+    {
+        "nombre": "Avila Lucas",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            2192,
+            2181
+        ],
+        "historial_elo_blitz": [
+            2175
+        ]
+    },
+    {
+        "nombre": "Lucero Marzo Daniel",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 57,
+        "historial_elo": [
+            1998,
+            2010,
+            2013,
+            2019,
+            2017
+        ],
+        "historial_elo_blitz": [
+            1953,
+            1993,
+            1966,
+            1968,
+            1960,
+            1965
+        ]
+    },
+    {
+        "nombre": "Huenelaf Enzo",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1845,
+            1866,
+            1926,
+            1942,
+            1989
+        ],
+        "historial_elo_blitz": [
+            1870,
+            1956,
+            2031,
+            2032,
+            2080,
+            2197
+        ]
+    },
+    {
+        "nombre": "Pereyra Denis Nazareno",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1949,
+            1967
+        ],
+        "historial_elo_blitz": [
+            1918
+        ]
+    },
+    {
+        "nombre": "Cicciari Teo Dante",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 57,
+        "historial_elo": [
+            1980,
+            1972,
+            1955,
+            1969,
+            1988,
+            1961,
+            1943,
+            1950
+        ],
+        "historial_elo_blitz": [
+            1943,
+            1896,
+            1900,
+            1918,
+            1912,
+            1919,
+            1923,
+            1874,
+            1874
+        ]
+    },
+    {
+        "nombre": "Lebed Simon",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1915,
+            1889,
+            1915,
+            1859
+        ],
+        "historial_elo_blitz": [
+            1889,
+            1864,
+            1831
+        ]
+    },
+    {
+        "nombre": "Rossi Geronimo",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1708,
+            1843
+        ],
+        "historial_elo_blitz": []
+    },
+    {
+        "nombre": "Sandoval Edgar Luis",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 38,
+        "historial_elo": [
+            1818
+        ],
+        "historial_elo_blitz": [
+            1852,
+            1846
+        ]
+    },
+    {
+        "nombre": "Pulgar Cristian",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1814
+        ],
+        "historial_elo_blitz": []
+    },
+    {
+        "nombre": "Ortega Francisco",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 51,
+        "historial_elo": [
+            1754,
+            1812,
+            1798,
+            1791,
+            1792,
+            1796,
+            1802
+        ],
+        "historial_elo_blitz": [
+            1857,
+            1885,
+            1845,
+            1847,
+            1825,
+            1814,
+            1820
+        ]
+    },
+    {
+        "nombre": "Molina Sebastian",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1780
+        ],
+        "historial_elo_blitz": []
+    },
+    {
+        "nombre": "Medina Gonzalo",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1751
+        ],
+        "historial_elo_blitz": []
+    },
+    {
+        "nombre": "Alvarado Contin Omar Hernando",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1744
+        ],
+        "historial_elo_blitz": []
+    },
+    {
+        "nombre": "Oliveri Jairo",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 58,
+        "historial_elo": [
+            1571,
+            1735,
+            1758,
+            1710,
+            1784,
+            1737,
+            1740
+        ],
+        "historial_elo_blitz": [
+            1599,
+            1882,
+            1842,
+            1816,
+            1814,
+            1803,
+            1815,
+            1834,
+            1855
+        ]
+    },
+    {
+        "nombre": "Digeronimo Miguel",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1736
+        ],
+        "historial_elo_blitz": []
+    },
+    {
+        "nombre": "Naipauer Matias",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 43,
+        "historial_elo": [
+            1720,
+            1699
+        ],
+        "historial_elo_blitz": [
+            1679,
+            1690
+        ]
+    },
+    {
+        "nombre": "Lucero Leon Fabian",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 38,
+        "historial_elo": [
+            1644,
+            1638,
+            1651,
+            1630,
+            1622,
+            1666,
+            1669
+        ],
+        "historial_elo_blitz": [
+            1644,
+            1654,
+            1641,
+            1675,
+            1660,
+            1714,
+            1709
+        ]
+    },
+    {
+        "nombre": "Saenz Mario Cesar",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 38,
+        "historial_elo": [
+            1657,
+            1651,
+            1657,
+            1668
+        ],
+        "historial_elo_blitz": [
+            1528
+        ]
+    },
+    {
+        "nombre": "Lapitzondo Santiago",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 50,
+        "historial_elo": [
+            1637,
+            1608,
+            1593,
+            1589,
+            1557,
+            1651,
+            1644
+        ],
+        "historial_elo_blitz": [
+            1634,
+            1621,
+            1607,
+            1552,
+            1561,
+            1560
+        ]
+    },
+    {
+        "nombre": "Ibarra Pedro",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1651
+        ],
+        "historial_elo_blitz": [
+            1689
+        ]
+    },
+    {
+        "nombre": "Silva Diego",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 52,
+        "historial_elo": [
+            1683,
+            1661,
+            1650,
+            1672
+        ],
+        "historial_elo_blitz": [
+            1634,
+            1672,
+            1668,
+            1684,
+            1669
+        ]
+    },
+    {
+        "nombre": "Servidio Benicio",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1629,
+            1647,
+            1645
+        ],
+        "historial_elo_blitz": [
+            1600,
+            1560
+        ]
+    },
+    {
+        "nombre": "Solaro Ivo",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1598,
+            1645
+        ],
+        "historial_elo_blitz": [
+            1673
+        ]
+    },
+    {
+        "nombre": "Sierra Walter Damian",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 38,
+        "historial_elo": [
+            1644,
+            1645
+        ],
+        "historial_elo_blitz": [
+            1633,
+            1639
+        ]
+    },
+    {
+        "nombre": "Canu Raul",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1645
+        ],
+        "historial_elo_blitz": []
+    },
+    {
+        "nombre": "Molina Miguel",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1642
+        ],
+        "historial_elo_blitz": []
+    },
+    {
+        "nombre": "Omad Jorge",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1630
+        ],
+        "historial_elo_blitz": []
+    },
+    {
+        "nombre": "Martinez Genaro",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1630
+        ],
+        "historial_elo_blitz": [
+            1441
+        ]
+    },
+    {
+        "nombre": "Cambiasso Joaquin",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1625
+        ],
+        "historial_elo_blitz": [
+            1505
+        ]
+    },
+    {
+        "nombre": "Lloyd Ryan",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1651,
+            1618
+        ],
+        "historial_elo_blitz": []
+    },
+    {
+        "nombre": "Suarez Abel",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1624,
+            1601,
+            1567,
+            1617
+        ],
+        "historial_elo_blitz": []
+    },
+    {
+        "nombre": "Adan Etcheberrito Maria Belen",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1615
+        ],
+        "historial_elo_blitz": []
+    },
+    {
+        "nombre": "Martinez Gael",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1613
+        ],
+        "historial_elo_blitz": []
+    },
+    {
+        "nombre": "Martinez Mariano",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1565,
+            1600
+        ],
+        "historial_elo_blitz": []
+    },
+    {
+        "nombre": "Centurion Marcelo",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1595
+        ],
+        "historial_elo_blitz": []
+    },
+    {
+        "nombre": "Valenzuela Santiago",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1592
+        ],
+        "historial_elo_blitz": []
+    },
+    {
+        "nombre": "Cicciari Ricardo Miguel",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 35,
+        "historial_elo": [
+            1610,
+            1590,
+            1586
+        ],
+        "historial_elo_blitz": []
+    },
+    {
+        "nombre": "Atienza Mercedes",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1589
+        ],
+        "historial_elo_blitz": []
+    },
+    {
+        "nombre": "Cortada Anselmo",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1586
+        ],
+        "historial_elo_blitz": []
+    },
+    {
+        "nombre": "Jacubowicz Tomas",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1581
+        ],
+        "historial_elo_blitz": []
+    },
+    {
+        "nombre": "Ferreira Gianfranco",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1623,
+            1580
+        ],
+        "historial_elo_blitz": []
+    },
+    {
+        "nombre": "Meoqui Mateo",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1574
+        ],
+        "historial_elo_blitz": []
+    },
+    {
+        "nombre": "Conde Alberto Jose Luis",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 45,
+        "historial_elo": [
+            1566,
+            1553,
+            1558,
+            1528,
+            1600,
+            1524,
+            1568
+        ],
+        "historial_elo_blitz": [
+            1611,
+            1634,
+            1615,
+            1663,
+            1658,
+            1664,
+            1652
+        ]
+    },
+    {
+        "nombre": "Silva Juan Carlos",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 56,
+        "historial_elo": [
+            1517,
+            1510,
+            1565,
+            1579
+        ],
+        "historial_elo_blitz": [
+            1514,
+            1576,
+            1574,
+            1577,
+            1604
+        ]
+    },
+    {
+        "nombre": "Casanova Amilcar",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1564
+        ],
+        "historial_elo_blitz": []
+    },
+    {
+        "nombre": "Amaya Nadia",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1560
+        ],
+        "historial_elo_blitz": []
+    },
+    {
+        "nombre": "Gonzales Lautaro",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1557
+        ],
+        "historial_elo_blitz": []
+    },
+    {
+        "nombre": "Seeliger Zenon",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1556
+        ],
+        "historial_elo_blitz": []
+    },
+    {
+        "nombre": "Rossi Augusto",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1551
+        ],
+        "historial_elo_blitz": []
+    },
+    {
+        "nombre": "Cordoba Mauro",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1547
+        ],
+        "historial_elo_blitz": []
+    },
+    {
+        "nombre": "Indurain Tomas",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1547
+        ],
+        "historial_elo_blitz": []
+    },
+    {
+        "nombre": "Blanco Felipe",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1545
+        ],
+        "historial_elo_blitz": [
+            1509
+        ]
+    },
+    {
+        "nombre": "Chamorro Gonzalo",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1544
+        ],
+        "historial_elo_blitz": []
+    },
+    {
+        "nombre": "Oliveri Blas",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1528
+        ],
+        "historial_elo_blitz": []
+    },
+    {
+        "nombre": "Brozzoni Gustavo",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 44,
+        "historial_elo": [
+            1594,
+            1596,
+            1590,
+            1556,
+            1586,
+            1551,
+            1523,
+            1540
+        ],
+        "historial_elo_blitz": [
+            1663,
+            1631,
+            1621,
+            1590,
+            1592,
+            1593
+        ]
+    },
+    {
+        "nombre": "Balducci Claudio",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 38,
+        "historial_elo": [
+            1516
+        ],
+        "historial_elo_blitz": [
+            1481
+        ]
+    },
+    {
+        "nombre": "Bouso Alejandro Alberto",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 43,
+        "historial_elo": [
+            1514,
+            1526
+        ],
+        "historial_elo_blitz": [
+            1505
+        ]
+    },
+    {
+        "nombre": "Mardon Francisco",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1477
+        ],
+        "historial_elo_blitz": []
+    },
+    {
+        "nombre": "Stagnaro Aime",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 38,
+        "historial_elo": [
+            1388,
+            1444,
+            1492
+        ],
+        "historial_elo_blitz": [
+            1482,
+            1494
+        ]
+    },
+    {
+        "nombre": "Sanchez Rafael Sandro",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 43,
+        "historial_elo": [
+            1471,
+            1452
+        ],
+        "historial_elo_blitz": [
+            1558,
+            1544,
+            1538
+        ]
+    },
+    {
+        "nombre": "Reinoso Jeremias",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 58,
+        "historial_elo": [
+            1477,
+            1480,
+            1453,
+            1451
+        ],
+        "historial_elo_blitz": [
+            1648,
+            1581,
+            1589,
+            1578,
+            1591
+        ]
+    },
+    {
+        "nombre": "Gonzalez Carlos",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 50,
+        "historial_elo": [
+            1482,
+            1468,
+            1446,
+            1468,
+            1442,
+            1451,
+            1430
+        ],
+        "historial_elo_blitz": [
+            1454,
+            1452,
+            1446,
+            1443,
+            1444
+        ]
+    },
+    {
+        "nombre": "Dulauroy Julien",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1441
+        ],
+        "historial_elo_blitz": []
+    },
+    {
+        "nombre": "Lobo Alfonso",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1361
+        ],
+        "historial_elo_blitz": []
+    },
+    {
+        "nombre": "Grimberg Lautaro",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1356
+        ],
+        "historial_elo_blitz": []
+    },
+    {
+        "nombre": "Helou Lucia",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1332
+        ],
+        "historial_elo_blitz": []
+    },
+    {
+        "nombre": "Avila Matias",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1331
+        ],
+        "historial_elo_blitz": []
+    },
+    {
+        "nombre": "Andreassi Mateo",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 31,
+        "historial_elo": [
+            1328
+        ],
+        "historial_elo_blitz": []
+    },
+    {
+        "nombre": "Gerez Cesar Ariel",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 7,
+        "historial_elo": [],
+        "historial_elo_blitz": [
+            1825
+        ]
+    },
+    {
+        "nombre": "Torres Eliseo",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 7,
+        "historial_elo": [],
+        "historial_elo_blitz": [
+            1602
+        ]
+    },
+    {
+        "nombre": "Carcedo Ulises",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 7,
+        "historial_elo": [],
+        "historial_elo_blitz": [
+            1908
+        ]
+    },
+    {
+        "nombre": "Musumeci Ricardo",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 7,
+        "historial_elo": [],
+        "historial_elo_blitz": [
+            1730
+        ]
+    },
+    {
+        "nombre": "Nahuelquier Joaquin",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 7,
+        "historial_elo": [],
+        "historial_elo_blitz": [
+            1483
+        ]
+    },
+    {
+        "nombre": "Grinberg Marcelo",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 7,
+        "historial_elo": [],
+        "historial_elo_blitz": [
+            1786
+        ]
+    },
+    {
+        "nombre": "Prosdocimi Mateo",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 7,
+        "historial_elo": [],
+        "historial_elo_blitz": [
+            1485
+        ]
+    },
+    {
+        "nombre": "Martinez Vicente Amorami Follil",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 19,
+        "historial_elo": [
+            1409
+        ],
+        "historial_elo_blitz": [
+            1520,
+            1478
+        ]
+    },
+    {
+        "nombre": "Martinez Vicente Risa Paloma",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 12,
+        "historial_elo": [
+            1448
+        ],
+        "historial_elo_blitz": [
+            1480
+        ]
+    },
+    {
+        "nombre": "Martinez Emanunel",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 7,
+        "historial_elo": [],
+        "historial_elo_blitz": [
+            1489
+        ]
+    },
+    {
+        "nombre": "Draguicevich Carla",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 7,
+        "historial_elo": [],
+        "historial_elo_blitz": [
+            1750
+        ]
+    },
+    {
+        "nombre": "Yetano Martin",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 7,
+        "historial_elo": [],
+        "historial_elo_blitz": [
+            1526
+        ]
+    },
+    {
+        "nombre": "Sanchez Sandro Rafael",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 14,
+        "historial_elo": [],
+        "historial_elo_blitz": [
+            1529,
+            1535
+        ]
+    },
+    {
+        "nombre": "Martinez Emanuel",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 19,
+        "historial_elo": [
+            1453
+        ],
+        "historial_elo_blitz": [
+            1450,
+            1478
+        ]
+    },
+    {
+        "nombre": "Sarno Schonhoff Teo",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 12,
+        "historial_elo": [
+            1504
+        ],
+        "historial_elo_blitz": [
+            1420
+        ]
+    },
+    {
+        "nombre": "Reinoso Guadalupe",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 7,
+        "historial_elo": [],
+        "historial_elo_blitz": [
+            1398
+        ]
+    },
+    {
+        "nombre": "Blanes Nazareno",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 7,
+        "historial_elo": [],
+        "historial_elo_blitz": [
+            1504
+        ]
+    },
+    {
+        "nombre": "Luque Noah",
+        "fecha_nacimiento": null,
+        "partidas_jugadas": 7,
+        "historial_elo": [],
+        "historial_elo_blitz": [
+            1425
+        ]
+    }
+]

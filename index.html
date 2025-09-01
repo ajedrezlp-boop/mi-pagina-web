@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Club de Ajedrez Lago Puelo</title>
+
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/png" href="img/fav.png">
+
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <a href="#" class="logo">
+            <img src="img/puelo-W.png" alt="Logo Club de Ajedrez Lago Puelo">
+        </a>
+        <nav>
+            <ul>
+                <li><a href="#tournament">4° IRT</a></li>
+                <li><a href="#about">Nuestro Club</a></li>
+                <li><a href="#ranking">Ranking</a></li>
+                <li><a href="#contact">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <!--
+        <h2>CLUB DE AJEDREZ LAGO PUELO</h2>
+        <p>Formando mentes brillantes desde 2014. Únete a nuestra comunidad de ajedrecistas y descubre el fascinante mundo del juego ciencia.</p>
+        <a href="#about" class="btn">Conoce Más</a>
+        -->
+    </section>
+
+    <!-- Partners Section -->
+    <div class="partners">
+        <div class="partners-container">
+            <img src="img/sponsors/awka.png" alt="Chessable" class="partner">
+            <img src="img/sponsors/latitud2.png" alt="Samsara" class="partner">
+            <img src="img/sponsors/Nautica2.png" alt="Laberinto" class="partner">
+            <img src="img/sponsors/laberinto.png" alt="Awka" class="partner">
+            <img src="img/sponsors/samsara-transparente3.png" alt="Latitud Sur" class="partner">
+            <img src="img/sponsors/Lihue2.png" alt="Laberinto" class="partner">
+        </div>
+    </div>
+
+    
+    <div class="gradient-divider"></div>
+
+    <!-- Tournament Section -->
+    <section class="tournament" id="tournament">
+        <div class="tournament-content">
+            <div class="tournament-header">
+                <h2 class="section-title">4° Abierto Internacional Lago Puelo</h2>
+                <p class="tournament-subtitle">Con la presencia estelar del GM Pepe Cuenca!</p>
+            </div>
+            <div class="tournament-info">
+                <div class="info-card">
+                    <h3><i class="fas fa-calendar-alt" style="margin-right: 10px;"></i> Fecha</h3>
+                    <p>Del 6 al 9 de Noviembre de 2025</p>
+                </div>
+                <div class="info-card">
+                    <h3><i class="fas fa-map-marker-alt" style="margin-right: 10px;"></i> Lugar</h3>
+                    <p>Salón "Aguas del Este"<br>Lago Puelo, Chubut</p>
+                </div>
+                <div class="info-card">
+                    <h3><i class="fas fa-chess" style="margin-right: 10px;"></i> Modalidad</h3>
+                    <p>Sistema Suizo - 7 Rondas<br>Ritmo: 90'+30"</p>
+                </div>
+                <div class="info-card">
+                    <h3><i class="fas fa-trophy" style="margin-right: 10px;"></i> Premios</h3>
+                    <p>$2.500.000 en premios<br>Trofeos y medallas</p>
+                </div>
+            </div>
+            <div class="tournament-buttons">
+                <a target="_blank" href="https://1bq8kvkv.forms.app/4to-abierto-internacional-lago-puelo" class="btn btn-tournament">
+                    <i class="fas fa-user-plus" style="margin-right: 10px;"></i> Inscripción
+                </a>
+                <a target="_blank" href="https://fachajedrez.com.ar/puelo/IRT/" class="btn btn-tournament btn-secondary">
+                    <i class="fas fa-link" style="margin-right: 10px;"></i> Toda la información
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Schedule Modal -->
+    <div id="scheduleModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 class="modal-title">
+                    <i class="fas fa-calendar-alt" style="margin-right: 10px;"></i>
+                    Cronograma Completo del Torneo
+                </h3>
+                <button class="close-modal" onclick="closeModal('scheduleModal')">&times;</button>
+            </div>
+            <div class="modal-body">
+                <p><strong>4° Abierto Internacional Lago Puelo</strong></p>
+                <p>Del 6 al 9 de Noviembre de 2025 - Lago Puelo, Chubut</p>
+                
+                <table class="schedule-table">
+                    <thead>
+                        <tr>
+                            <th>Día</th>
+                            <th>Fecha</th>
+                            <th>Horario</th>
+                            <th>Actividad</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><strong>Miércoles</strong></td>
+                            <td>6 de Noviembre</td>
+                            <td>14:00 - 18:00</td>
+                            <td>Inscripciones y acreditaciones</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td>19:00</td>
+                            <td>Reunión técnica</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td>20:00</td>
+                            <td><strong>1ª Ronda</strong></td>
+                        </tr>
+                        <tr>
+                            <td><strong>Jueves</strong></td>
+                            <td>7 de Noviembre</td>
+                            <td>09:00 - 12:00</td>
+                            <td>Inscripciones (últimas)</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td>15:00</td>
+                            <td><strong>2ª Ronda</strong></td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td>20:00</td>
+                            <td><strong>3ª Ronda</strong></td>
+                        </tr>
+                        <tr>
+                            <td><strong>Viernes</strong></td>
+                            <td>8 de Noviembre</td>
+                            <td>15:00</td>
+                            <td><strong>4ª Ronda</strong></td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td>20:00</td>
+                            <td><strong>5ª Ronda</strong></td>
+                        </tr>
+                        <tr>
+                            <td><strong>Sábado</strong></td>
+                            <td>9 de Noviembre</td>
+                            <td>09:00</td>
+                            <td><strong>6ª Ronda</strong></td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td>15:00</td>
+                            <td><strong>7ª Ronda (Final)</strong></td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td>19:00</td>
+                            <td>Ceremonia de premiación</td>
+                        </tr>
+                    </tbody>
+                </table>
+                
+                <div style="margin-top: 20px; padding: 15px; background-color: #f8f9fa; border-radius: 8px;">
+                    <p><strong>Información adicional:</strong></p>
+                    <ul style="margin-left: 20px; margin-top: 10px;">
+                        <li>Ritmo de juego: 90 minutos + 30 segundos por jugada</li>
+                        <li>Sistema: Suizo a 7 rondas</li>
+                        <li>Desempate: Bucholz, Sonneborn-Berger, Performance</li>
+                        <li>Las partidas no finalizadas serán adjudicadas por el árbitro principal</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Prizes Modal -->
+    <div id="prizesModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 class="modal-title">
+                    <i class="fas fa-trophy" style="margin-right: 10px;"></i>
+                    Distribución de Premios
+                </h3>
+                <button class="close-modal" onclick="closeModal('prizesModal')">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div style="text-align: center; margin-bottom: 25px;">
+                    <h4 style="color: var(--accent-color); font-size: 1.3rem;">Total en premios: $2.500.000</h4>
+                </div>
+
+                <div class="prize-category">
+                    <h4><i class="fas fa-crown" style="margin-right: 8px;"></i> Clasificación General</h4>
+                    <ul class="prize-list">
+                        <li>1° Puesto <span class="prize-amount">$800.000</span></li>
+                        <li>2° Puesto <span class="prize-amount">$500.000</span></li>
+                        <li>3° Puesto <span class="prize-amount">$300.000</span></li>
+                        <li>4° Puesto <span class="prize-amount">$200.000</span></li>
+                        <li>5° Puesto <span class="prize-amount">$150.000</span></li>
+                    </ul>
+                </div>
+
+                <div class="prize-category">
+                    <h4><i class="fas fa-medal" style="margin-right: 8px;"></i> Categorías por Rating</h4>
+                    <ul class="prize-list">
+                        <li>1° Sub-2200 <span class="prize-amount">$150.000</span></li>
+                        <li>1° Sub-2000 <span class="prize-amount">$120.000</span></li>
+                        <li>1° Sub-1800 <span class="prize-amount">$100.000</span></li>
+                        <li>1° Sub-1600 <span class="prize-amount">$80.000</span></li>
+                    </ul>
+                </div>
+
+                <div class="prize-category">
+                    <h4><i class="fas fa-users" style="margin-right: 8px;"></i> Categorías Especiales</h4>
+                    <ul class="prize-list">
+                        <li>1° Veterano (+60 años) <span class="prize-amount">$60.000</span></li>
+                        <li>1° Juvenil (Sub-20) <span class="prize-amount">$50.000</span></li>
+                        <li>1° Femenino <span class="prize-amount">$50.000</span></li>
+                        <li>1° Local (Lago Puelo) <span class="prize-amount">$40.000</span></li>
+                    </ul>
+                </div>
+
+                <div style="margin-top: 25px; padding: 15px; background-color: #e8f4f8; border-radius: 8px; border-left: 4px solid #17a2b8;">
+                    <p><strong><i class="fas fa-info-circle" style="margin-right: 8px;"></i> Información sobre premios:</strong></p>
+                    <ul style="margin-left: 20px; margin-top: 10px;">
+                        <li>Los premios son acumulables (general + categoría)</li>
+                        <li>Mínimo 5 participantes por categoría para otorgar premio</li>
+                        <li>Trofeos para los primeros 3 puestos generales</li>
+                        <li>Medallas para primeros puestos de cada categoría</li>
+                        <li>Los premios se abonan al finalizar el torneo</li>
+                        <li>Se aplicarán las retenciones correspondientes según AFIP</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="gradient-divider"></div>
+
+    <!-- About Section -->
+    <section class="about" id="about">
+        <h2 class="section-title">Nuestro Club</h2>
+        <div class="about-content">
+            <div class="about-text">
+                <p>El Club de Ajedrez Lago Puelo surgió en el año 2014 como un taller gratuito para niños y niñas en la Biblioteca Popular de la localidad, fomentado por la Federación de Ajedrez Chubutense y ha estado creciendo de forma constante desde ese momento.</p>
+                <p>A partir del 2020 tomó un gran impulso con una nueva dirigencia que se encargó de armar una propuesta pedagógica, salir a representar en otras localidades y organizar gran cantidad de torneos, siendo el Abierto Internacional la máxima apuesta.</p>
+                <p>En el 2023 adquiere su propia personería jurídica, consolidándose institucionalmente.</p>
+                <!-- <a href="#" class="btn">Únete a Nosotros</a> -->
+            </div>
+            <div class="about-image">
+                <img src="img/fotos/equipo.JPG" alt="Torneo de ajedrez en Lago Puelo">
+            </div>
+        </div>
+    </section>
+
+    <div class="gradient-divider"></div>
+
+    <!-- Ranking Section -->
+    <section class="ranking" id="ranking">
+        <h2 class="section-title">Ranking Interno</h2>
+
+        <div class="table-btns">
+            <a id="btnBlitz" class="btn" href="">Blitz</a>
+            <a id="btnStandard" class="btn" href="">Standard</a>
+        </div>
+
+        <!-- Tabla de ranking -->
+        <div class="table-responsive fade-up">
+            <table class="ranking-table">
+                <thead>
+                    <tr>
+                        <th scope="col"></th>
+                        <th scope="col">Jugador/a</th>
+                        <th scope="col">ELO</th>
+                        <th scope="col">Var</th>
+                    </tr>
+                </thead>
+                <tbody id="rankingTable">
+                    <!-- Datos del ranking se cargarán aquí -->
+                </tbody>
+            </table>
+        </div>
+    </section>
+
+    <!-- Modal para el gráfico -->
+    <div id="eloModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Evolución de ELO</h5>
+                <span class="close-modal">&times;</span>
+            </div>
+            <div class="modal-body">
+                <canvas id="eloChart" width="400" height="200"></canvas>
+            </div>
+        </div>
+    </div>
+    
+    <div class="gradient-divider"></div>
+
+    <!-- Footer -->
+    <footer id="contact">
+        <div class="footer-container">
+            <div class="footer-column">
+                <h3>Sobre Nosotros</h3>
+                <p>El Club de Ajedrez Lago Puelo es una institución dedicada a la promoción del ajedrez en la Patagonia argentina, formando jugadores desde nivel inicial hasta competición.</p>
+            </div>
+            <div class="footer-column">
+                <h3>Contáctanos</h3>
+                <address>
+                    Lago Puelo, Chubut<br>
+                    Argentina<br>
+                    <br>
+                    Email: ajedrezlp@gmail.com<br>
+                    Teléfono: +549 2944 38-7512
+                </address>
+            </div>
+            <div class="footer-column">
+                <h3>Síguenos</h3>
+                <p>Mantente actualizado con nuestras actividades y torneos a través de nuestras redes sociales.</p>
+                <div class="social-links">
+                    <a target="_blank" href="https://www.facebook.com/ajedrezlp"><i class="fab fa-facebook"></i></a>
+                    <a target="_blank" href="https://www.instagram.com/ajedrezlp"><i class="fab fa-instagram"></i></a>
+                    <a target="_blank" href="https://www.youtube.com/@ajedrezlp"><i class="fab fa-youtube"></i></a>
+                </div>
+            </div>
+        </div>
+
+        <div class="gradient-divider"></div>
+
+        <div class="footer-bottom">
+            <p>&copy; 2025 Club de Ajedrez Lago Puelo. Todos los derechos reservados.</p>
+        </div>
+    </footer>
+
+    
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>
